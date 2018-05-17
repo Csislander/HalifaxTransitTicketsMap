@@ -1,0 +1,10 @@
+# All
+*.shx
+*.prj
+*.dbf
+*.pdf
+*.zip
+*.txt
+*.shp
+rsconnect/
+*.RData
